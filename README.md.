@@ -1,0 +1,27 @@
+# Electricity Consumption Analyzer
+
+## About
+This is my first Python project. It calculates household electricity consumption and estimates electricity costs.
+
+## Features
+- Calculates daily electricity consumption
+- Estimates monthly electricity usage
+- Calculates estimated electricity costs
+- Compares electricity usage of different appliances
+- Displays a bar chart
+- Exports data to CSV
+
+## Technology Used
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
+
+## Formula
+Energy (kWh) = Power (W) × Usage Hours / 1000
+
+## Note
+The monthly consumption is estimated using 30 days. The electricity rate used in this project is an example, not an official tariff.
+
+## Author
+Nazifa Akter
